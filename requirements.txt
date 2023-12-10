@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+pandas_datareader
+streamlit
+-e .
