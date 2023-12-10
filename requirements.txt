@@ -2,5 +2,9 @@ pandas
 numpy
 matplotlib
 pandas_datareader
+yfinance
+typing
+scikit-learn
+tensorflow
 streamlit
 -e .
